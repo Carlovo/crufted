@@ -1,0 +1,14 @@
+[project]
+name = "crufted"
+version = "0.1.0"
+description = "CRUFTED!"
+readme = "README.md"
+authors = [
+    {name = "Ted", email = "ted@cruf.t"},
+]
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

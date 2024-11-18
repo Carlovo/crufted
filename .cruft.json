@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/Carlovo/straight_to_the_money",
+  "commit": "b625792fdca6acb9fcf24063e857b904e46f0dcb",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Crufted",
+      "project_slug": "crufted",
+      "project_description": "CRUFTED!",
+      "author_name": "Ted",
+      "author_email": "ted@cruf.t",
+      "python_version": "3.12",
+      "_template": "https://github.com/Carlovo/straight_to_the_money"
+    }
+  },
+  "directory": null
+}
